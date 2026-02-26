@@ -89,6 +89,7 @@ Focus: hardware design, firmware, secure elements, BLE.
 
 I’ve built and scaled systems in different environments:
 
+- Acronis
 - trivago  
 - Instana (later IBM)  
 - TIER Mobility  
