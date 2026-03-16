@@ -1,7 +1,5 @@
 # Andrey Ovcharov
 
-![](https://u.woox.cc/p/9SwQLKqMD)
-
 I’ve been building software systems for more than 25 years. Mostly backend-heavy, data-heavy, production systems. Some of them were used by millions of people, some were small internal tools, some were hardware devices that you could literally hold in your hand.
 
 Over time, I noticed that I’m always drawn to the same kind of problems: systems that become messy as they grow. Systems where implicit assumptions pile up. Systems that start behaving like magic even though they’re just code. I tend to react to that by trying to make the structure more explicit — models, graphs, clear states, understandable flows.
