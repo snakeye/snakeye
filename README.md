@@ -1,5 +1,7 @@
 # Andrey Ovcharov
 
+![](https://u.woox.cc/p/9SwQLKqMD)
+
 I’ve been building software systems for more than 25 years. Mostly backend-heavy, data-heavy, production systems. Some of them were used by millions of people, some were small internal tools, some were hardware devices that you could literally hold in your hand.
 
 Over time, I noticed that I’m always drawn to the same kind of problems: systems that become messy as they grow. Systems where implicit assumptions pile up. Systems that start behaving like magic even though they’re just code. I tend to react to that by trying to make the structure more explicit — models, graphs, clear states, understandable flows.
@@ -30,8 +32,3 @@ Professionally, I’ve worked at companies like Acronis, trivago, Instana (later
 I’m comfortable working across layers — backend, infrastructure, data, sometimes frontend — because real systems don’t care much about neat boundaries. What matters to me is that the whole thing works and can be understood.
 
 If you’re interested in structured AI, knowledge modelling, or just building systems that don’t collapse under their own complexity, feel free to reach out.
-
-[email]: andrew.ovcharov@gmail.com
-[website]: https://en.ovcharov.me
-[linkedin]: https://www.linkedin.com/in/snakeye/
-[telegram]: https://telegram.me/andrey_ovcharov
